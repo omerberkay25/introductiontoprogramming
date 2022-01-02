@@ -18,6 +18,9 @@ public class CokBoyutluDiziMatrisCarpimi {
             System.out.println();
         }
 
+        System.out.println("--------------------------");
+
+        
         System.out.println("B matrisi");
         for(i=0; i<=1; i++){
             for(j=0;j<=3;j++) {
@@ -26,6 +29,8 @@ public class CokBoyutluDiziMatrisCarpimi {
             System.out.println();
         }
 
+        System.out.println("--------------------------");
+        
         /* a ve matrisinin çarpımı olan
          * c martisinin hesaplanması */
         for(k=0; k<=3; k++) {
